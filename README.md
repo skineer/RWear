@@ -11,7 +11,9 @@ The files created by the script are:
     mean_per_subject.csv (https://github.com/skineer/RWear/blob/master/mean_per_subject.csv)
 
 For more information about the origin dataset, please visit the website:
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+    http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 For information about the datasets please check the codebook:
-https://github.com/skineer/RWear/blob/master/CodeBook.md
+
+    https://github.com/skineer/RWear/blob/master/CodeBook.md
