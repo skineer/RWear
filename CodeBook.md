@@ -9,10 +9,10 @@ Observations: No data transformations applied at this time. All variables are ch
   
 Columns:
 
-------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------
    Column name : Time_Body_Acc_Mean_X
    Storage mode: character
-------------------------------------------------------------------------------------
+   ------------------------------------------------------------------------------------
 
    Column name : Time_Body_Acc_Mean_Y
    Storage mode: character
