@@ -1,10 +1,17 @@
 #Codebook
+<<<<<<< HEAD
 ##mean_std.csv
+=======
+
+##mean_std.csv
+
+>>>>>>> 1e2d5da5feb90737ded26574fbf35037564aac56
 Description: File with only the columns refered to mean and standard deviation
 
 Observations: No data transformations applied at this time. All variables are character and the subject is numeric.
 
               All that was done to create this file was to filter the mean and standard deviation observations and to improve the names of the variables
+<<<<<<< HEAD
 			  
 Columns:
 
@@ -15,6 +22,15 @@ Columns:
    Storage mode: character
    
 =====================================================================================
+=======
+  
+Columns:
+
+  ------------------------------------------------------------------------------------
+   Column name : Time_Body_Acc_Mean_X 
+   Storage mode: character
+   ------------------------------------------------------------------------------------
+>>>>>>> 1e2d5da5feb90737ded26574fbf35037564aac56
 
    Column name : Time_Body_Acc_Mean_Y
    Storage mode: character
