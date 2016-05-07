@@ -2,20 +2,13 @@
 
 ##mean_std.csv
 
-    Description: File with only the columns refered to mean and standard deviation
-
-    Observations: No data transformations applied at this time. All variables are character and the subject is numeric.
-
+Description: File with only the columns refered to mean and standard deviation
+Observations: No data transformations applied at this time. All variables are character and the subject is numeric.
               All that was done to create this file was to filter the mean and standard deviation observations and to improve the names of the variables
-			  
 Columns:
-
 =====================================================================================
-
    Column name : Time_Body_Acc_Mean_X
-   
    Storage mode: character
-   
 =====================================================================================
   
    Column name : Time_Body_Acc_Mean_Y
