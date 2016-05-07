@@ -78,3 +78,7 @@ colnames(mean_per_subject)[1] <- "Subject"
 
 # garbage collection 3
 rm("tmp")
+
+# save the files
+write.csv(x = mean_per_subject, file = "mean_per_subject.csv")
+write.csv(x = mean_std, file = "mean_std.csv")
