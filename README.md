@@ -6,6 +6,7 @@ The script run_analysis.R was developed with the objective of create a tidy file
 Basically the script reads all data files, name all the columns properly, filter only the mean and standard deviation observations, merge the training and test datasets and aggregate the informations to summarize the means of all observations.
 
 The files created by the script are:
+
     mean_std.csv (https://github.com/skineer/RWear/blob/master/mean_std.csv)
     mean_per_subject.csv (https://github.com/skineer/RWear/blob/master/mean_per_subject.csv)
 
