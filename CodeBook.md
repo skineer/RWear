@@ -340,14 +340,19 @@ Columns:
 
    **Storage Mode**: character
 
-
+   
    **Column Name** : Subject
+   
+   **Storage Mode**: integer
+
+   
+   **Column Name** : Activity_ID
    
    **Storage Mode**: integer
    
 ## mean_per_subject.csv
 
-Description: file with the mean of all the observations grouped by the subjects that did the experiments
+Description: file with the mean of all the observations grouped by the subjects that did the experiments and activities performed
 
 Observations: At this this all the variables were converted to numeric type, in order to calculate de mean, and aggregated by subjects.
 
@@ -357,6 +362,16 @@ Columns:
 
    **Storage Mode**: double
 
+   
+   **Column Name** : Activity
+
+   **Storage Mode**: character
+
+   
+   **Column Name** : Activity_ID
+
+   **Storage Mode**: double
+   
 
    **Column Name** : Time_Body_Acc_Mean_X
 
